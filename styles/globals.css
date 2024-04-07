@@ -669,7 +669,7 @@ AboutPage
     max-width: 50%;
 }
 
-.small-about-image-contianer{
+.small-about-image-container{
     margin: 3rem;
     width: auto;
     max-height: 550px;
@@ -681,7 +681,7 @@ AboutPage
     }
 }
 
-.about-image-contianer{
+.about-image-container{
     margin: 3rem;
     width: auto;
     max-height: 600px;
@@ -693,7 +693,7 @@ AboutPage
     }
 }
 
-.big-about-image-contianer{
+.big-about-image-container{
     margin: 3rem;
     width: auto;
     max-height: 800px;
