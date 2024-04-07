@@ -27,7 +27,7 @@ const Sidebar = () => {
 
         <div className={`profile-container ${sidebarCollapse ? "collapsed" : ""}`}>
             <div className="profile-pic-container">
-                <img src="/assets/images/profileSquare.jpg" className='profile-pic'></img>
+                <img src="assets/images/profileSquare.jpg" className='profile-pic'></img>
                 
             </div>
             
