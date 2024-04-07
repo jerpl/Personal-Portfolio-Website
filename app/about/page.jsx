@@ -94,7 +94,7 @@ const about = () => {
             mentioned earlier, I've long been fascinated with behaviour and motivation, enough to pursue it as part of my undergrad. The knowledge I've gained has inherent value in
               that I enjoyed the learning, but there is substantial merit in understanding the reward system of the brain. Before I started learning about the chemical reactions of 
               motivation in our brain, I was an avid procrastinator, I had a serious content addiction like so many of today's youth, and I was diagnosed with clinical depression and
-              anxiety. I wholeheartedly believe these diagnoses, along with many of today's ADHD diagnoses, arose from a lack of addressing the underlying overuse of quick reward 
+              anxiety. I wholeheartedly believe these diagnoses arose from a lack of addressing the underlying overuse of quick reward 
               sources like our phones. Our brains have a threshold of dopamine that is the driving factor in why we perform daily activities: get out of bed, eat food, exercise, and 
               pursue goals. When a more appealing dopamine source exists in our pocket and we condition ourselves every day that we can be happy just from opening TikTok, our brain 
               adapts and begins to find no joy in the everyday activities that previously motivated us. This leads to dopamine starvation, a state most teens find themselves in on a
