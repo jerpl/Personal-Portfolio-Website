@@ -16,7 +16,7 @@ const Home = () => {
           my name is Jeremy.
         </h2>
         <h4 className='padd-bottom'>
-          I am a practicality oriented Full-Stack developer with a passion for the world of design, and the ways in which we can utilize technology to improve our lives.
+          I am a practicality-oriented Full-Stack developer with a passion for the world of design, and the ways in which we can utilize technology to improve our lives.
         </h4>
         
         <div className='aboutBtn'>
