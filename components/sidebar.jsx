@@ -60,7 +60,7 @@ const Sidebar = () => {
                     </Link>
                 </li> 
                 <li className={location === "/resume" ? "active" : ""}>
-                    <a className='navLink' href="/assets/files/Jeremy Pierce-Lord Resume January 2024.docx.pdf" download={"/assets/files/Jeremy Pierce-Lord Resume January 2024.docx.pdf"} target="_blank"> 
+                    <a className='navLink' href="assets/files/resume.pdf" download={"assets/files/resume.pdf"} target="_blank"> 
                         <div className="navIcon"><IoIosPaper className='ico'/></div>
                         <h3 className='text'>Resume</h3>
                     </a>
