@@ -34,8 +34,8 @@ const Sidebar = () => {
 
             <div className={`hide ${sidebarCollapse ? "collapsed" : ""}`}>
                 <div className="animation" onClick={e => setSidebarCollapse(!sidebarCollapse)}></div>
-                <HiMenuAlt3 size={30} color='#2D292A' className='openIcon'/>
-                <HiMenuAlt2 size={30} color='#2D292A' className='closedIcon'/>
+                <HiMenuAlt3 size={32} color='#2D292A' className='openIcon'/>
+                <HiMenuAlt2 size={32} color='#2D292A' className='closedIcon'/>
             </div>
         </div>
 
