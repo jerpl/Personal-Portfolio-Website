@@ -30,9 +30,9 @@ const portfolio = () => {
                 </div>
                 
                 <h3 className='project-desc'>SmartSets is a simple AI study tool that I created in my free time while I was completing my degree in computer science. The purpose 
-                is to supercharge your productivity at studying flashcards. Using natural language processing and a neural network to compare your answers to questions with the 
-                correct answer, smart sets is able to generate a numerical score to represent your competence in every question you answer. Then, It genreates custom study sessions
-                that take into consideration your compitence at each question, forcing you to spend more time on the concepts you struggle with the most.
+                is to supercharge your productivity at studying flashcards. Using natural language processing and a neural network to compare your answers to questions with
+                the correct answer, smart sets is able to generate a numerical score to represent your competence in every question you answer. Then, It generates custom study sessions
+                that take into consideration your competence at each question, forcing you to spend more time on the concepts you struggle with the most.
                 </h3>
                 
                 </div>
@@ -79,8 +79,8 @@ const portfolio = () => {
                 
                 <h3 className='project-desc'>Designed and implemented a Full-Stack simulation of the Oasis Pro Transcutaneous Electric Nerve Stimulation device for pain relief and
                 recovery. The complete design process was followed including use cases, sequence and UML diagrams, interface design, and backend implementation. The interactive UX 
-                was built in QT C++. This was a remote team project I completed during my degree, I included it becasue of the team managemnt skills I learned from this project. Some
-                of the group members were challenging to work with and through delegation and conflict-resolution, we were able to produce a great final product.
+                was built in QT C++. This was a remote team project I completed during my degree, I included it because of the team management skills I learned from this project. Some
+                of the group members were challenging to work with and through delegation and conflict resolution, we were able to produce a great final product.
                 </h3>
                 
                 </div>
@@ -104,7 +104,7 @@ const portfolio = () => {
                 <h3 className='project-desc'>This was My first Full-Stack project, an online rendition of the classic game “Connect Four”. There are several improvements to the base
                 game including user onboarding, authentication, and password encryption such that you can keep track of your games and add friends. There is also an in-game chatbox 
                 to talk with your opponent while you play. This was my first experience with data encryption and multiplayer functionality across more than one device. This project 
-                tought me that completing projects will improve your skills faster than just taking classes. 
+                taught me that completing projects will improve your skills faster than just taking classes. 
                 </h3>
                 
                 </div>
