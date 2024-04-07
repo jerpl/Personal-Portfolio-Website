@@ -10,13 +10,13 @@
 }
 
 @media only screen and (max-width: 900px) {
-    .hide-small {
+    .-small {
       display: none;
     }
   }
 
 @media only screen and (max-width: 1500px) {
-    .hide-med {
+    .-med {
         display: none;
     }
     .text-box {
