@@ -30,29 +30,29 @@ const about = () => {
         <section className="section-box" id='Background'>
           <div className='about-paragraph'>
             <h2 className="page-subhead padd-bottom reduce-width">Why I am in this field.</h2>
-            <h3 className="page-text">I recently completed my Bachelors Degree in computer science, with a minor in psychology, spesifically the areas of mental health, motivation, and 
-            behaviour. Two very different fields, some would argue, however, my passions in both areas extend into my childhood, and drive me search for ways I can apply my knowlege of 
-            the two in conjunction. When I was young, building was how I spent my time, from lego crossbows that left holes in the walls of my house, homemade planes where I competed for
-            gliding distance with friends, anything I could harness creativity to design, build, and optimise. In school, I loved design class so much that I bullied my teacher into 
+            <h3 className="page-text">I recently completed my Bachelor's Degree in computer science, with a minor in psychology, specifically the areas of mental health, motivation, and 
+            behaviour. Two very different fields, some would argue, however, my passions in both areas extend into my childhood, and drive me to search for ways I can apply my knowledge of 
+            the two in conjunction. When I was young, building was how I spent my time, from Lego crossbows that left holes in the walls of my house, to homemade planes which I competed for
+            gliding distance with friends, anything I could harness creativity to design, build, and optimize. In school, I loved design class so much that I bullied my teacher into 
             making a design club where I could go use the 3d printer or the programmable robots at lunch hour. The desire to make everything into a design project is still engrained 
-            into me, as i spent a month making my desktop PC into a liquid-cooled art piece with custom cut and sanded PET tuping and a coolant solution. All this being said, I knew from very early on that I needed to find a career in which I could 
+            into me, as I spent a month making my desktop PC into a liquid-cooled art piece with custom-cut and sanded PET tubing and a coolant solution. All this being said, I knew from very early on that I needed to find a career in which I could 
             find a problem, and create a solution. Computer science resonated with me because of the synergy with consumer-oriented design, limitless possibilities of what types of projects I could be working on, and the 
             ease of self-directed learning. All I need is a computer, and I can create almost anything I can imagine.
             </h3>
             <h3 className="page-text">
             Around this time, I also began paying more and more attention to the behaviour of other people. I wondered what drove us to make 
-            decisions... why do we procrasitnate? why do we have panick attacks? As I got older, I noticed the rapid increase in ADHD cases, anxiety and depression in school age kids, 
-            and with this, the relationsip between technology and our psychology became painfully clear. With today's techology, we can design and program software to help people, but 
-            this is not always what happens. We witnessed smartphones transition from a new concept, to the single thing you can guarentee every person has with them. With the speed of 
-            this transiton, there was no time to study the impact of the drastic lifestyle change on the consumer, especially the developing brain. I have watched friends and loved ones'
-            mental health deteriorate as applicaitons that were originally designed for entertainemnt, became chains by which they developed body disphorphia, anxiety, lost their drive 
-            to perform in school and untimately lost the ability to cope. The impact of techology on our brain chemistry is what drove me to minor in psychology, and through my learning,
+            decisions... why do we procrastinate? why do we have panic attacks? As I got older, I noticed the rapid increase in ADHD cases, anxiety and depression in school-age kids, 
+            and with this, the relationship between technology and our psychology became painfully clear. With today's technology, we can design and program software to help people, but 
+            this is not always what happens. We witnessed smartphones transition from a new concept, to the single thing you can guarantee every person has with them. With the speed of 
+            this transition, there was no time to study the impact of the drastic lifestyle change on the consumer, especially the developing brain. I have watched friends and loved ones
+            mental health deteriorate as applications that were originally designed for entertainment, became chains by which they developed body dysmorphia, anxiety, lost their drive 
+            to perform in school and ultimately lost the ability to cope. The impact of technology on our brain chemistry is what drove me to minor in psychology, and through my learning,
             I was stunned to find out just how easy it is to manipulate our brains. Now, after completing my degree, my knowledge in these two fields, which I hope to have convinced you
-            are not so seprate after all, allows me to desgin software which can both harness the power we have over our brain, and respect it's boundaries. 
+            are not so separate after all, allows me to design software which can both harness the power we have over our brain and respect its boundaries. 
             </h3>
           </div>
           
-          <div className='small-about-image-contianer'>
+          <div className='small-about-image-container'>
             <img src="/assets/images/glider.jpg" alt="glider" className="small-about-image"></img>
             <div className="image-decore"></div>
             <div className='image-decore2'></div>
@@ -60,19 +60,19 @@ const about = () => {
         </section>
         
         <section className="section-box" id='Present'>
-          <div className='about-image-contianer'>
-            <img src="/assets/images/hawaiiMed.jpg" alt="Profile Picture" className="about-image"></img>
+          <div className='about-image-container'>
+            <img src="assets/images/hawaiiMed.jpg" alt="Profile Picture" className="about-image"></img>
             <div className="image-decore"></div>
             <div className='image-decore2'></div>
           </div>
           <div className="about-paragraph middle">
             <h2 className="page-subhead padd-sides padd-bottom">Where I'm at.</h2>
-            <h3 className="page-text">As I've finished my degree now, I'm looking to start my career somewhere I can learn and improve. I'm hoping to work in person where I can form relationsips
+            <h3 className="page-text">As I've finished my degree now, I'm looking to start my career somewhere I can learn and improve. I'm hoping to work in person where I can form relationships
             with my colleagues and be a part of a community. In terms of work, I won't say no to anything, I am not one to turn down a challenge, and at this early stage, I believe it's 
-            paramount that I gain experience out of my comfort zone and expand my skill stack. That being said, my passions fall in the fields of software that is helping improve lives.
+            paramount that I gain experience out of my comfort zone and expand my skill stack. That being said, my passions fall in software that is helping improve lives.
             Obviously, that's a fairly broad statement, but for example, designing software for the smooth running of a hospital, or mental health company would give
-            me a daily sense of accomlishment and purpose. I am also very interested in machine learning, and most application development, both mobile and web. Most of my experience falls in the
-            domain of full-stack developemnt, including interning for a Fin-Tech startup, so that's my central focus presently. 
+            me a daily sense of accomplishment and purpose. I am also very interested in machine learning, and most application development, both mobile and web. Most of my experience falls in the
+            domain of full-stack development, including interning for a Fin-Tech startup, so that's my central focus presently. 
             </h3>
           </div>
           
@@ -88,7 +88,7 @@ const about = () => {
             the importance of the values that I've gained through these passions. Volleyball taught me early on that teams who do not respect and trust each other, or cannot 
             communicate consistently will fail. Whereas teams that help each other improve and instill confidence and motivation in their peers, grow and become more successful over 
             time. As a team captain, I learned the value of leading by example, understanding that those around you will work hard if they see you working hard, and will slack
-            off if they notice that behaviour from you. Playing sports has imprinted in me the value of hard work and persistent persuit of one's goals. Something that I know
+            off if they notice that behaviour from you. Playing sports has imprinted in me the value of hard work and persistent pursuit of one's goals. Something that I know
               I can take with me into the workplace. </h3>
             <h3 className="page-text">Aside from sports and athletics, which have been a foundational part of my life and character, is my passion for psychology and the mind. As I
             mentioned earlier, I've long been fascinated with behaviour and motivation, enough to pursue it as part of my undergrad. The knowledge I've gained has inherent value in
@@ -105,8 +105,8 @@ const about = () => {
                 helping them overcome the content addiction that is being engrained into the modern lifestyle. I believe that simple lifestyle changes can drastically improve 
                 productivity, and more importantly, enjoyment of our work.</h3>
           </div>
-          <div className='big-about-image-contianer hide-med'>
-            <img src="/assets/images/vball.PNG" alt="Profile Picture" className="big-about-image"></img>
+          <div className='big-about-image-container hide-med'>
+            <img src="assets/images/vball.PNG" alt="Profile Picture" className="big-about-image"></img>
             <div className="image-decore"></div>
             <div className='image-decore2'></div>
           </div>
